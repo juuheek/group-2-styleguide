@@ -14,21 +14,25 @@ body {
     height: 100vh;
     background-color: #26325B;
     flex-direction: column;
-    justify-content: space-between;
+
+    justify-content: center;
+    align-items: center;
 
 
 }
 
 #content {
+    display: flex;
     flex: 1;
     flex-direction: column;
     justify-content: space-between;
-
+    <<<<<<< HEAD
 }
 
 .contentpic {
     justify-content: center;
     align-items: center;
+    =======>>>>>>>da97f6f026855ab5f6bfb2089e9870742ccea849
 }
 
 img {
