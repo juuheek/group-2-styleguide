@@ -23,11 +23,24 @@ body {
     flex: 1;
     flex-direction: column;
     justify-content: space-between;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 43106074476ea2da833875f54e825b757161902a
 }
 
 .contentpic {
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
+=======
+
+}
+
+img {
+    justify-content: center;
+    align-items: center;
+>>>>>>> 43106074476ea2da833875f54e825b757161902a
 }
 
 .navtext {
