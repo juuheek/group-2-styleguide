@@ -21,6 +21,14 @@ body {
 
 #content {
     flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+    ;
+}
+
+img {
+    justify-content: center;
+    align-items: center;
 }
 
 .navtext {
