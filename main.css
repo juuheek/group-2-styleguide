@@ -14,7 +14,6 @@ body {
     height: 100vh;
     background-color: #26325B;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
 }
 
