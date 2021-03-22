@@ -23,7 +23,12 @@ body {
     flex: 1;
     flex-direction: column;
     justify-content: space-between;
-    ;
+
+}
+
+.contentpic {
+    justify-content: center;
+    align-items: center;
 }
 
 img {
