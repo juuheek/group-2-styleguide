@@ -16,17 +16,18 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
-
 }
 
 #content {
     display: flex;
     flex: 1;
     flex-direction: column;
+    justify-content: space-between;
+}
 
+.contentpic {
+    justify-content: center;
     align-items: center;
-    
 }
 
 .navtext {
