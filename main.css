@@ -59,19 +59,31 @@ a:visited {
 #nav {
 
     display: flex;
-    flex-basis: 220px;
-    height: 100vh;
-    background-color: #26325B;
+    height: 100%;
+    flex-basis: 200px;
+    min-width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    background-color: #E79A74;
     flex-direction: column;
     
 }
 
 #content {
-    margin: 0;
     display: flex;
     flex: 1;
+    height: 100vh;
     flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    margin-left: 260px;
     align-items: center;
+
 }
 
 .contentpic {
