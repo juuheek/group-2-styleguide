@@ -29,6 +29,16 @@ body {
     flex-direction: column;
 }
 
+.navtext a:link {
+    color: white;
+    text-decoration: none;
+}
+
+.navtext a:visited {
+    color: white;
+    text-decoration: none;
+}
+
 #content {
     display: flex;
     flex: 1;
