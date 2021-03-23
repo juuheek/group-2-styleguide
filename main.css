@@ -114,7 +114,6 @@ img {
     /* min-height: 100px; */
 }
 
-<<<<<<< HEAD
 /* min icon */
 
 .header{
@@ -139,24 +138,6 @@ img {
     padding: 100px;
     height: 200px;
     width: 150px;
-=======
-/* Juhee css*/
-#nav-typo {
-    display: flex;
-    height: 100%;
-    flex-basis: 200px;
-    min-width: 200px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    padding-top: 20px;
-    background-color: #E79A74;
-    flex-direction: column;
-
->>>>>>> d7982a592886d5b96b7770363571ead30147c104
 }
 
 .icons:hover{
