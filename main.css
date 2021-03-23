@@ -109,3 +109,60 @@ img {
     color: white;
     /* min-height: 100px; */
 }
+
+#nav-typo {
+    display: flex;
+    height: 100%;
+    flex-basis: 200px;
+    min-width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    background-color: #E79A74;
+    flex-direction: column;
+
+}
+
+#typo-content {
+    display: flex;
+    flex: 1;
+    height: 100vh;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    margin-left: 260px;
+}
+
+#arrowdiv {
+    display: flex;
+    flex-direction: column;
+    width: 7px;
+    height: 7px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+#montserrat,
+#din {
+    margin: 0 0 50px 0
+}
+
+#p {
+    font-size: 20px;
+}
