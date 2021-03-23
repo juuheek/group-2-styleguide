@@ -29,14 +29,24 @@ body {
     flex-direction: column;
 }
 
+.navtext a:link {
+    color: white;
+    text-decoration: none;
+}
+
+.navtext a:visited {
+    color: white;
+    text-decoration: none;
+}
+
 #content {
     display: flex;
     flex: 1;
     height: 100vh;
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
-    margin-top: 114px;
-    margin-left: 400px;
+    margin-top: 40px;
+    margin-left: 260px;
 
 }
 
