@@ -285,3 +285,8 @@ h2 {
     transform: rotate(-15deg);
     font-size: 28px;
 }
+
+#space {
+    height: 100px;
+    width: 200px;
+}
