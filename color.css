@@ -2,8 +2,7 @@ body {
     margin: 0;
 }
 
-html,
-body {
+html{
     margin: 0;
 }
 
@@ -15,7 +14,7 @@ body {
 
 #nav {
     display: flex;
-    height: 100vh;
+    height: 100%;
     flex-basis: 200px;
     min-width: 200px;
     position: fixed;
@@ -23,7 +22,7 @@ body {
     top: 0;
     left: 0;
     background-color: #111;
-    overflow-x: hidden;
+
     padding-top: 20px;
     background-color: #26325B;
     flex-direction: column;
