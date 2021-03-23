@@ -15,7 +15,7 @@ body {
 
 #nav {
     display: flex;
-    height: 100%;
+    height: 100vh;
     flex-basis: 200px;
     min-width: 200px;
     position: fixed;
@@ -193,11 +193,9 @@ h2 {
 .tooltip:hover .tooltiptext {
     visibility: visible;
     opacity: 1;
-    <<<<<<< HEAD=======
 }
 
 .hover:hover {
     transform: translateY(-10px);
     box-shadow: 5px 5px 5px rgb(226, 226, 226);
-    >>>>>>>abb0f6e4043f5396d22392291ffa04c4038828f1
 }
