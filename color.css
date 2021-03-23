@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-html{
+html {
     margin: 0;
 }
 
@@ -25,6 +25,11 @@ html{
     padding-top: 20px;
     background-color: #26325B;
     flex-direction: column;
+}
+
+.navpic {
+    margin-left: 10px;
+
 }
 
 .navtext a:link {
