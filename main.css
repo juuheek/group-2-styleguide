@@ -114,12 +114,15 @@ img {
     /* min-height: 100px; */
 }
 
+
 .navpic {
     margin-left: 10px;
 
 }
 
+
 /* Juhee css*/
+
 #nav-typo {
     display: flex;
     height: 100%;
@@ -186,6 +189,7 @@ h2 {
 
 #p {
     font-size: 20px;
+
 }
 
 #imgbox {

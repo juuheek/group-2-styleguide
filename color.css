@@ -131,15 +131,6 @@ h2 {
     width: 1010px;
 }
 
-#imgbox img {
-    opacity: 1;
-    transition: 0.3s;
-}
-
-#imgbox img:hover {
-
-    opacity: 0.5;
-}
 
 .palette {
     margin-right: 0px;
