@@ -114,18 +114,15 @@ img {
     /* min-height: 100px; */
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
+
 .navpic {
     margin-left: 10px;
 
 }
 
->>>>>>> dfc64ff29ce9156232c061fce88777006371f588
+
 /* Juhee css*/
->>>>>>> 8f3521d23195dc08487192636b890cf7baf03f20
+
 #nav-typo {
     display: flex;
     height: 100%;
@@ -181,8 +178,7 @@ img {
 
 #p {
     font-size: 20px;
-<<<<<<< HEAD
-=======
+
 }
 
 #imgbox {
@@ -277,5 +273,4 @@ img {
     font-family: 'Shadows Into Light', cursive;
     transform: rotate(-15deg);
     font-size: 28px;
->>>>>>> 8f3521d23195dc08487192636b890cf7baf03f20
 }
