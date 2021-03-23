@@ -15,12 +15,13 @@ body {
 
 #nav {
     display: flex;
-    height: 100vh;
+    height: 100%;
     flex-basis: 200px;
     min-width: 200px;
     position: fixed;
     z-index: 1;
-
+    top: 0;
+    left: 0;
     background-color: #111;
     overflow-x: hidden;
     padding-top: 20px;
@@ -192,12 +193,11 @@ h2 {
 .tooltip:hover .tooltiptext {
     visibility: visible;
     opacity: 1;
-<<<<<<< HEAD
-=======
-  }
+    <<<<<<< HEAD=======
+}
 
-  .hover:hover{
+.hover:hover {
     transform: translateY(-10px);
     box-shadow: 5px 5px 5px rgb(226, 226, 226);
->>>>>>> abb0f6e4043f5396d22392291ffa04c4038828f1
+    >>>>>>>abb0f6e4043f5396d22392291ffa04c4038828f1
 }
