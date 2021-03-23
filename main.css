@@ -147,7 +147,7 @@ img {
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 260px;
+    margin-left: 400px;
 }
 
 #arrowdiv {
@@ -171,9 +171,20 @@ img {
     -webkit-transform: rotate(45deg);
 }
 
-#montserrat,
-#din {
+#montserrat {
     margin: 0 0 50px 0
+}
+
+/* here help me */
+#din {
+    margin-bottom: 100px;
+}
+
+h2 {
+
+    margin-top: 120px;
+    margin-bottom: 63px;
+
 }
 
 #p {
