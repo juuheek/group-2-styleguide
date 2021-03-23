@@ -23,6 +23,8 @@ body {
     flex: 1;
     flex-direction: column;
     align-items: center;
+    margin-top: 114px;
+    margin-left: 150px;
 }
 
 .contentpic {
