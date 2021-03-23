@@ -98,6 +98,17 @@ button {
 
 }
 
+#icon-content {
+    display: flex;
+    flex: 1;
+    height: 100vh;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    margin-left: 400px;
+
+}
+
 #content {
     display: flex;
     flex: 1;
@@ -227,8 +238,6 @@ h2 {
 
 .header {
     font-family: 'Montserrat', sans-serif;
-    margin-left: 300px;
-    margin-top: 100px;
     font-weight: 400;
 }
 
@@ -237,10 +246,6 @@ h2 {
     flex-wrap: wrap;
     max-width: 1100px;
     justify-content: space-around;
-    margin: 100px;
-    margin-left: 300px;
-
-
 }
 
 .icons {
@@ -297,4 +302,9 @@ h2 {
     font-family: 'Shadows Into Light', cursive;
     transform: rotate(-15deg);
     font-size: 28px;
+}
+
+#space {
+    height: 100px;
+    width: 200px;
 }
