@@ -55,7 +55,6 @@ a:visited {
     font-weight: 700;
     font-size: 45px;
     color: white;
-
 }
 
 
@@ -84,6 +83,17 @@ a:visited {
 
 }
 
+#icon-content {
+    display: flex;
+    flex: 1;
+    height: 100vh;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    margin-left: 400px;
+
+}
+
 #content {
     display: flex;
     flex: 1;
@@ -91,8 +101,7 @@ a:visited {
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 260px;
-    align-items: center;
+    margin-left: 400px;
 
 }
 
@@ -214,8 +223,6 @@ h2 {
 
 .header {
     font-family: 'Montserrat', sans-serif;
-    margin-left: 300px;
-    margin-top: 100px;
     font-weight: 400;
 }
 
@@ -224,10 +231,6 @@ h2 {
     flex-wrap: wrap;
     max-width: 1100px;
     justify-content: space-around;
-    margin: 100px;
-    margin-left: 300px;
-
-
 }
 
 .icons {
