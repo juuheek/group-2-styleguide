@@ -47,15 +47,15 @@ a:visited {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 35px;
-    color: black;
-    
+    color: #26325B;
+
 }
 
 button {
     width: 200px;
     height: 50px;
-    
-    background-color:  #E79A74;
+
+    background-color: #E79A74;
     border: none;
     border-radius: 15px;
     -webkit-border-radius: 15px;
