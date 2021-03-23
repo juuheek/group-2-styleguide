@@ -32,6 +32,9 @@ body {
     text-decoration: none;
 }
 
+#styleguide {
+    transition: all .3s ease-out;
+}
 
 a:link {
     color: #26325B;
@@ -71,9 +74,10 @@ button {
 
 }
 
-button:hover{
-    background-color:  #E67571;
+button:hover {
+    background-color: #E67571;
 }
+
 #buttons {
     color: white;
 }
