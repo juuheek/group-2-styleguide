@@ -44,7 +44,7 @@ html{
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 260px;
+    margin-left: 400px;
 
 }
 
@@ -101,7 +101,6 @@ html{
 
 .down {
     transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
 }
 
 #p {
@@ -113,6 +112,7 @@ h2 {
     margin-bottom: 63px;
 }
 
+
 #line {
     background-color: black;
     width: 550px;
@@ -120,9 +120,27 @@ h2 {
     margin-bottom: 77px;
 }
 
-.palette {
-    margin-right: 600px;
+#imgbox {
+    display: flex;
+    flex-direction: row;
+    width: 1010px;
 }
+
+#imgbox img {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+#imgbox img:hover {
+
+    opacity: 0.5;
+}
+
+.palette {
+    margin-right: 0px;
+}
+
+
 
 #colors {
     display: flex;
