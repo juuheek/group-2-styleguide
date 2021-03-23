@@ -27,6 +27,11 @@ html {
     flex-direction: column;
 }
 
+.navpic {
+    margin-left: 10px;
+
+}
+
 .navtext a:link {
     color: white;
     text-decoration: none;
