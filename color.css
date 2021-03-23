@@ -22,7 +22,7 @@ body {
     display: flex;
     flex: 1;
     flex-direction: column;
-    align-items: center;
+
     margin-top: 114px;
     margin-left: 150px;
 }
@@ -45,4 +45,9 @@ img {
     margin-bottom: 100px;
     color: white;
     /* min-height: 100px; */
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 132px;
 }
