@@ -27,12 +27,12 @@ body {
 }
 
 a:link {
-    color: #26325B;
+    color: white;
     text-decoration: none;
 }
 
 a:visited {
-    color: #26325B;
+    color: white;
     text-decoration: none;
 }
 
@@ -104,7 +104,7 @@ img {
     font-family: 'Montserrat', sans-serif;
 
     margin-left: 10px;
-    margin-top: 100px;
+    /* margin-top: 100px; */
     margin-bottom: 100px;
     color: white;
     /* min-height: 100px; */
@@ -165,4 +165,15 @@ img {
 
 #p {
     font-size: 20px;
+}
+
+#imgbox {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #E79A74;
+    width: 1010px;
+}
+
+#imgbox img {
+    padding: 30px;
 }
