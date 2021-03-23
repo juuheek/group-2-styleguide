@@ -129,7 +129,6 @@ h2 {
     margin: 10px;
     margin-left: 0;
     display: flex;
-    background-color: #DCE8F3;
     justify-content: center;
     align-items: center;
 }
@@ -193,4 +192,12 @@ h2 {
 .tooltip:hover .tooltiptext {
     visibility: visible;
     opacity: 1;
+<<<<<<< HEAD
+=======
+  }
+
+  .hover:hover{
+    transform: translateY(-10px);
+    box-shadow: 5px 5px 5px rgb(226, 226, 226);
+>>>>>>> abb0f6e4043f5396d22392291ffa04c4038828f1
 }
