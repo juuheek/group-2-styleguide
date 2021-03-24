@@ -113,7 +113,7 @@ button:hover {
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 400px;
+    margin-left: 260px;
 
     animation: fadein 2s;
     -moz-animation: fadein 2s;
@@ -182,7 +182,7 @@ button:hover {
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 400px;
+    margin-left: 260px;
     animation: fadein 2s;
     -moz-animation: fadein 2s;
     /* Firefox */
@@ -303,7 +303,7 @@ img {
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 400px;
+    margin-left: 260px;
     animation: fadein 2s;
     -moz-animation: fadein 2s;
     /* Firefox */

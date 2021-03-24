@@ -1,6 +1,7 @@
 html,
 body {
     margin: 0;
+    width: 100%;
 }
 
 #main {
@@ -73,7 +74,7 @@ body {
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 400px;
+    margin-left: 260px;
 }
 
 .logo-content {
