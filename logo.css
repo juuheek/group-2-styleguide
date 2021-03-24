@@ -3,8 +3,7 @@ body {
     margin: 0;
 }
 
-=============#main {
-    display: flex;
+#main {
     margin: 0;
 }
 
@@ -81,7 +80,6 @@ body {
     margin-left: 400px;
     padding-bottom: 50px;
     width: 950px;
-    align-items: center;
 }
 
 .header {
@@ -102,8 +100,6 @@ p {
     font-size: 20px;
     text-align: center;
 }
-
-==============
 
 /*sofa- logo arrangement*/
 .photos {
@@ -130,9 +126,8 @@ p {
     flex-direction: row;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 180px;
+    margin-left: 400px;
     padding-bottom: 50px;
-    align-items: center;
 }
 
 .missuse:hover {
@@ -157,14 +152,12 @@ p {
 
 .logouse {
     display: flex;
-    align-items: center;
     padding: 20px;
 }
 
 .column {
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 figcaption {
@@ -205,12 +198,6 @@ hr {
     margin-top: 25px;
     font-size: 21px;
     text-align: center;
-<<<<<<< HEAD
-    animation: fadein 3s;
-    -moz-animation: fadein 3s; /* Firefox */
-    -webkit-animation: fadein 3s; /* Safari and Chrome */
-    -o-animation: fadein 3s; /* Opera */
-=======
     animation: fadein 2s;
     -moz-animation: fadein 2s;
     /* Firefox */
@@ -218,7 +205,6 @@ hr {
     /* Safari and Chrome */
     -o-animation: fadein 2s;
     /* Opera */
->>>>>>> 9345bf66aaab263e3abbafe89feafb7aca233733
 }
 
 @keyframes fadein {
