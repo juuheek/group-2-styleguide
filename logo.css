@@ -45,6 +45,11 @@ body {
     /* min-height: 100px; */
 }
 
+.navpic {
+    margin-left: 10px;
+
+}
+
 #nav-typo {
     display: flex;
     height: 100%;
