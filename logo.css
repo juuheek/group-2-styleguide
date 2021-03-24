@@ -159,7 +159,7 @@ p {
 
 .logouse {
     display: flex;
-    padding: 20px;
+    /* padding: 20px; */
 }
 
 .column {
