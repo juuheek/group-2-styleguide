@@ -59,7 +59,7 @@ html {
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     margin-top: 40px;
-    margin-left: 260px;
+    margin-left: 360px;
 
     animation: fadein 2s;
     -moz-animation: fadein 2s;
